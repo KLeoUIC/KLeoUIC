@@ -1,4 +1,4 @@
-![banner](file:///C:/Users/katie/OneDrive/Desktop/UICSophmore/CS277/Github%20banner%20Just%20the%20moth.png)
+![Github banner Just the moth](https://github.com/user-attachments/assets/996111f4-81fa-444b-916f-75a66a19a2ff)
 Hello! I'm Katie Lee-O.
 
 I'm a Computer Science major at Universty of Illinois Chicago set to graduate with a Bachelors of Science in 2027. 
