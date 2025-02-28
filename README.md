@@ -1,4 +1,4 @@
-![Github banner Just the moth](https://github.com/user-attachments/assets/996111f4-81fa-444b-916f-75a66a19a2ff)
+![Github banner Just the moth](https://github.com/user-attachments/assets/259c3162-9c19-4b0f-8fd9-a9341dcce35c)
 Hello! I'm Kleeo.
 
 I'm a Computer Science major at Universty of Illinois Chicago set to graduate with a Bachelors of Science in 2027. 
